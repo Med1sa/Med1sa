@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Med1sa
-- 👀 I’m interested in learn more languages
+- 👀 I’m interested in learning languages
 - 🌱 I’m currently learning c++
 - 📫 Prefer to be alone ...
 
